@@ -1,1 +1,2 @@
 # StudentGitLab
+More project info
